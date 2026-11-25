@@ -1,5 +1,16 @@
 # @backstage/frontend-test-utils
 
+## 1.0.1
+
+### Patch Changes
+
+- e2378df: Updated dependency `i18next` to `^26.0.0`.
+- Updated dependencies
+  - @backstage/frontend-app-api@1.0.1
+  - @backstage/plugin-app@0.6.1
+  - @backstage/core-app-api@1.20.8
+  - @backstage/test-utils@1.8.1
+
 ## 1.0.0
 
 ### Major Changes
